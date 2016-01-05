@@ -5,7 +5,7 @@
 <items>
 <items_info> <!-- this is opitonal -->
       <title>TV </title> 
-      <genre>TV Live</genre>
+      <genre>TV en Vivo</genre>
       <description>: Lista de Canales para el Livestreamspro :</description>
       <thumbnail>http://i.imgur.com/6pvNVON.jpg</thumbnail>
       <fanart>http://adrian.kodistream.info/fanart.jpg</fanart>

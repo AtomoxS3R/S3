@@ -12,15 +12,10 @@
 	
       <channel>
     <name>Argentina</name>
-    <thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail>
-    <fanart>http://i.imgur.com/UAQY3DI.jpg</fanart>
-        <items>
-                
-			<item><title>[COLOR=green]-----[/COLOR][COLOR=orange] A R G E N T I N A[/COLOR][COLOR=green]-----[/COLOR]</title><link>http://about.me/adryan</link></item>
-			
-			
-
-	
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+<items>
+ 
 <item>
  <title>El Trece Argentina</title>
  <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_juan_13tv live=1 timeout=20</link>

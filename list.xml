@@ -9,26 +9,27 @@
       <description>: Lista de Canales para el Livestreamspro :</description>
       <thumbnail>https://lh3.googleusercontent.com/-1AWzXoLDsMc/AAAAAAAAAAI/AAAAAAAAAEA/DC2J6ATX3cM/s120-c/photo.jpg</thumbnail>
       <fanart>http://images.123hdwallpapers.com/20150610/os-x-grass-wallpaper-hd-1920x1080.jpg</fanart>
-      <date>10.01.2016</date>
+      <date>01.04.2016</date>
       <cwhiteits>adryan</cwhiteits>
     </items_info>
-	
-	
-	<!--http://i.imgur.com/ oxTNPnp .png-->
 
 <item>
-<title>              [COLOR gray]   update: [COLOR white]02[/COLOR] • Enero • 2016[/COLOR]      </title>
-<link>http://adrian.kodistream.info/adryan/list.xml</link><thumbnail>https://lh3.googleusercontent.com/-1AWzXoLDsMc/AAAAAAAAAAI/AAAAAAAAAEA/DC2J6ATX3cM/s120-c/photo.jpg</thumbnail><fanart>http://images.123hdwallpapers.com/20150610/os-x-grass-wallpaper-hd-1920x1080.jpg</fanart>
+<title>[COLOR white] Actualizado: 01 • Abril • 2016[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://lh3.googleusercontent.com/-1AWzXoLDsMc/AAAAAAAAAAI/AAAAAAAAAEA/DC2J6ATX3cM/s120-c/photo.jpg</thumbnail><fanart>http://images.123hdwallpapers.com/20150610/os-x-grass-wallpaper-hd-1920x1080.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Deportes[/COLOR] [COLOR skyblue][Sports] [/COLOR]</title>
+<item>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Argentina[/B] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>https://lh3.googleusercontent.com/-1AWzXoLDsMc/AAAAAAAAAAI/AAAAAAAAAEA/DC2J6ATX3cM/s120-c/photo.jpg</thumbnail><fanart>http://images.123hdwallpapers.com/20150610/os-x-grass-wallpaper-hd-1920x1080.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/AtomoxS3R/S3/master/Argentina.xml</externallink>
+	
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Deportes[/B][/COLOR] [Sports] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>https://lh3.googleusercontent.com/-1AWzXoLDsMc/AAAAAAAAAAI/AAAAAAAAAEA/DC2J6ATX3cM/s120-c/photo.jpg</thumbnail><fanart>http://images.123hdwallpapers.com/20150610/os-x-grass-wallpaper-hd-1920x1080.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]Peliculas[/B] [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Peliculas[/B] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>https://lh3.googleusercontent.com/-1AWzXoLDsMc/AAAAAAAAAAI/AAAAAAAAAEA/DC2J6ATX3cM/s120-c/photo.jpg</thumbnail><fanart>http://images.123hdwallpapers.com/20150610/os-x-grass-wallpaper-hd-1920x1080.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/pyt_vod.xml</externallink>
 </item>

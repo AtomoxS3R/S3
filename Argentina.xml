@@ -10,14 +10,10 @@
       <credits>@mail.com</credits>
     </channels_info>
 	
-	
-	
-	
-	
       <channel>
     <name>Argentina</name>
-    <thumbnail>https://lh3.googleusercontent.com/-1AWzXoLDsMc/AAAAAAAAAAI/AAAAAAAAAEA/DC2J6ATX3cM/s120-c/photo.jpg</thumbnail>
-    <fanart>http://images.123hdwallpapers.com/20150610/os-x-grass-wallpaper-hd-1920x1080.jpg</fanart>
+    <thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail>
+    <fanart>http://i.imgur.com/UAQY3DI.jpg</fanart>
         <items>
                 
 			<item><title>[COLOR=green]-----[/COLOR][COLOR=orange] A R G E N T I N A[/COLOR][COLOR=green]-----[/COLOR]</title><link>http://about.me/adryan</link></item>
@@ -179,19 +175,16 @@
  </regex>
  </item>
  
- 
+<item><title>TELEFE Argentina</title><link>http://streamup.global.ssl.fastly.net/app/beto_3s-stream/playlist.m3u8</link></item> 
 <item><title>Canal 13 Argentina</title><link>mms://209.160.20.34/canal3/</link></item>
 
  
 <item><title>Canal 13 Argentina</title><link>mms://209.160.20.34/canall3/</link></item>
 
 
-<item>
-<title>America TV</title><!--http://www.sintelevisor.com/tv/canales/america.php-->
-<utube>9B85F_piGV8</utube>
-</item>
+<item><title>America TV Argentina</title><link>plugin://plugin.video.f4mTester/?url=http://prepublish.f.qaotic.net/epb/ngrp:americatvlive-100056_all/manifest.f4m</link></item>
 
-			<item>
+<item>
 <title>TV Publica</title>
 <link>http://prepublish.f.qaotic.net/epb/c7live01-20034/Playlist.m3u8|Referer=http://vmf.edge-apps.net</link>
 </item>
@@ -628,6 +621,6 @@ rtmp://c5n.stweb.tv:1935/c5n/live</link></item>
 			
 			
 			
-            </items>	
-       
-    </channel>
+</items>	
+</channel>
+</channels>    

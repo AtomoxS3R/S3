@@ -2,7 +2,7 @@
 
 <channels>
 
-    
+<channel>    
     <thumbnail>https://lh3.googleusercontent.com/-1AWzXoLDsMc/AAAAAAAAAAI/AAAAAAAAAEA/DC2J6ATX3cM/s120-c/photo.jpg</thumbnail>
     <fanart></fanart>
 <items>
@@ -608,5 +608,5 @@ rtmp://c5n.stweb.tv:1935/c5n/live</link></item>
 			
 			
 </items>	
-
+</channel>
 </channels>    

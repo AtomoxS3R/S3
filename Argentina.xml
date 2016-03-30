@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels_info> <!-- this is opitonal -->
-      <title>Adryan list</title> <!-- if channels_info, a title is required, other elements are optional -->
-      <genre>Television</genre>
-      <description>Lista de Canales de Adrian  </description>
-       <thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/UAQY3DI.jpg</fanart>
-      <date>17.11.2014</date>
-      <credits>adryan@mail.com</credits>
+      <title></title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre></genre>
+      <description></description>
+       <thumbnail></thumbnail>
+       <fanart></fanart>
+      <date></date>
+      <credits></credits>
     </channels_info>
 <channels>
 

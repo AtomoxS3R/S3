@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
+<channels_info> <!-- this is opitonal -->
+      <title>Adryan list</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Television</genre>
+      <description>Lista de Canales de Adrian  </description>
+       <thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/UAQY3DI.jpg</fanart>
+      <date>17.11.2014</date>
+      <credits>adryan@mail.com</credits>
+    </channels_info>
 <channels>
 
 <channel>    
     <thumbnail>https://lh3.googleusercontent.com/-1AWzXoLDsMc/AAAAAAAAAAI/AAAAAAAAAEA/DC2J6ATX3cM/s120-c/photo.jpg</thumbnail>
-    <fanart></fanart>
+    <fanart>http://images.123hdwallpapers.com/20150610/os-x-grass-wallpaper-hd-1920x1080.jpg</fanart>
 <items>
  
 <item>

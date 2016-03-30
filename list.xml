@@ -4,21 +4,14 @@
 
 <items>
 <items_info> <!-- this is opitonal -->
-      <title>TV </title> 
+      <title></title> 
       <genre>TV en Vivo</genre>
-      <description>: Lista de Canales para el Livestreamspro :</description>
-      <thumbnail>https://lh3.googleusercontent.com/-1AWzXoLDsMc/AAAAAAAAAAI/AAAAAAAAAEA/DC2J6ATX3cM/s120-c/photo.jpg</thumbnail>
-      <fanart>http://hdimagesnew.com/wp-content/uploads/2015/11/Green-Abstract-Wallpaper-HD-9.jpg</fanart>
-      <date>01.04.2016</date>
-      <cwhiteits>adryan</cwhiteits>
+      <description>: Lista de Canales</description>
+      <thumbnail></thumbnail>
+      <fanart></fanart>
+      <date</date>
+      <cwhiteits></cwhiteits>
     </items_info>
-
-<item>
-<title>[COLOR white] Actualizado: 01 • Abril • 2016[/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>https://lh3.googleusercontent.com/-1AWzXoLDsMc/AAAAAAAAAAI/AAAAAAAAAEA/DC2J6ATX3cM/s120-c/photo.jpg</thumbnail>
-<fanart>http://hdimagesnew.com/wp-content/uploads/2015/11/Green-Abstract-Wallpaper-HD-9.jpg</fanart>
-<item>
 
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Argentina[/B] [/COLOR]</title>

@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
-    <channels_info> <!-- this is opitonal -->
-      <title></title> <!-- if channels_info, a title is required, other elements are optional -->
-      <genre>Television</genre>
-      <description>Lista de Canales</description>
-       <thumbnail>https://lh3.googleusercontent.com/-1AWzXoLDsMc/AAAAAAAAAAI/AAAAAAAAAEA/DC2J6ATX3cM/s120-c/photo.jpg</thumbnail><fanart>http://images.123hdwallpapers.com/20150610/os-x-grass-wallpaper-hd-1920x1080.jpg</fanart>
-      <date>2016</date>
-      <credits>@mail.com</credits>
-    </channels_info>
-	
-      <channel>
-    <name>Argentina</name>
-    <thumbnail></thumbnail>
+
+    
+    <thumbnail>https://lh3.googleusercontent.com/-1AWzXoLDsMc/AAAAAAAAAAI/AAAAAAAAAEA/DC2J6ATX3cM/s120-c/photo.jpg</thumbnail>
     <fanart></fanart>
 <items>
  
@@ -617,5 +608,5 @@ rtmp://c5n.stweb.tv:1935/c5n/live</link></item>
 			
 			
 </items>	
-</channel>
+
 </channels>    

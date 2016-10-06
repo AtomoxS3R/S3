@@ -589,23 +589,6 @@ rtmp://c5n.stweb.tv:1935/c5n/live</link></item>
 			<thumbnail>http://www.grupoclarin.com/en/sites/default/files/logo_tn_0_0.jpg</thumbnail>
 			</item>
 
-			<item>
-			<title>[COLOR lime]TYC Sports HD[/COLOR]<title>
-			<link>rtmp://sl100tb.cxnlive.com:1935/live/ playpath=tyc.stream swfUrl=http://player.longtailvideo.com/player5.3.swf pageUrl=http://www.tv-envivo.com.ar/2011/01/tyc-sports-en-vivo.html live=true timeout=15</link>
-			<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png</thumbnail>
-			</item>
-
-
-			<item>
-			<title>[COLOR lime]DirecTV[/COLOR]<title>
-			<link>rtmp://37.48.93.39/live playpath=combateperu?id=216672 conn=S:OK swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf pageUrl=http://www.mipsplayer.com/embedplayer/combateperu/1/600/385 live=true timeout=15</link>
-			<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/directv_lam_sports.png</thumbnail>
-			</item>
-
-			
-			
-			
-			
 			
 			
 			

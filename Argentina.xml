@@ -266,18 +266,20 @@
  <page></page>
  </regex>
  </item>
-
-<item><title> TN Canal 13 (Argentina)</title><link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1</link></item>
-<item><title> TN 24 Horas (Argentina)</title><link>rtsp://stream.tn.com.ar/live/tnhd1</link></item>
-<item><title> C5N (Argentina)</title><link>rtmp://c5n.stweb.tv/c5n/live</link></item>
-<item><title> Canal 12 Cordoba</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8</link></item>
-<item><title> CANAL 13 HD</title><link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1</link></item>
-<item><title> Canal Rural 1 HD</title><link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1</link></item>
-<item><title> Quiero Musica mms</title><link>mms://200.42.92.6:1755/qmusica</link></item>
-<item><title> C5N</title><link>rtmp://c5n.stweb.tv:1935/c5n/live</link></item>
-<item><title> TeleMax (Argentina)</title><link>http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8</link></item>
-<item><title> CN23</title><link>http://190.210.73.129:1941/ar/test/chunks.m3u8?nimblesessionid=340566&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM1OjU5IFBNJmhhc2hfdmFsdWU9Z3o5TWJNcVFwdjFPTUFXSGMxeHlSUT09JnZhbGlkbWludXRlcz0y</link></item>
-<item><title> DeportTV</title><link>http://186.33.227.200/DXTV/smilXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E1Q1NnSEtnZXJzQjBNQ0Y5dz09JnZhbGlkbWludXRlcz0yMA==</link></item>
+<item></item>
+<item></item>
+<item></item>
+<item></item>
+<item><title>TN HD 1</title><link>rtsp://stream.tn.com.ar/live/tnhd1</link></item>
+<item><title>TN HD 2</title><link>rtsp://stream.tn.com.ar/live/tnhd2</link></item>
+<item><title>C5N</title><link>rtmp://c5n.stweb.tv/c5n/live</link></item>
+<item><title>C5N HD</title><link>rtmp://c5n.stweb.tv:1935/c5n/live</link></item>
+*<item><title>CANAL 13 HD</title><link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1</link></item>
+<item><title>Canal Rural 1</title><link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1</link></item>
+<item><title>Quiero Musica TV</title><link>mms://200.42.92.6:1755/qmusica</link></item>
+<item><title>TeleMax</title><link>http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8</link></item>
+*<item><title>CN23</title><link>http://server6.stweb.tv/CN23/ngrp:live_all/playlist.m3u8</link></item>
+<item><title> DeportTV</title><link>rtsp://186.33.227.198/DXTV/mp4:DXTV_movil1?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE2IDU6MTE6MzUgUE0maGFzaF92YWx1ZT1udHVQVHpNUys5MlNiZzFQQzgxYjlnPT0mdmFsaWRtaW51dGVzPTIw</link></item>
 
 <item><title>ElOnce TV Entre Rios Argentina</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/8957585/streams/live/playlist.m3u8</link></item>
 <item><title>Imperio TV Rio Cuarto Argentina</title><link>http://iphone-streaming.ustream.tv/uhls/18376856/streams/live/iphone/playlist.m3u8</link></item>

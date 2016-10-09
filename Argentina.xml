@@ -5,7 +5,11 @@
     <thumbnail>http://b-i.forbesimg.com/wlf/files/2013/10/300px-Argentina_flag_icon.svg_.png</thumbnail>
     <fanart>http://images.123hdwallpapers.com/20150610/os-x-grass-wallpaper-hd-1920x1080.jpg</fanart>
 <items>
- 
+<item>
+<title>El Trece HD 1280x720</title>
+<link>http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/chunklist_b3496000.m3u8|Referer=http://vmf.edge-apps.net</link>
+</item>
+	
 <item>
  <title>El Trece Argentina</title>
  <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_juan_13tv live=1 timeout=20</link>

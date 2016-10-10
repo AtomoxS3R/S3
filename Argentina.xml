@@ -173,6 +173,16 @@
 
 <item><title>America TV Argentina</title><link>plugin://plugin.video.f4mTester/?url=http://prepublish.f.qaotic.net/epb/ngrp:americatvlive-100056_all/manifest.f4m</link></item>
 
+
+
+<item>
+<title>TV Publica 426x240</title>
+<link>http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/chunklist_b296000.m3u8|Referer=http://vmf.edge-apps.net</link>
+</item>
+<item>
+<title>TV Publica 640x360</title>
+<link>http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/chunklist_b496000.m3u8|Referer=http://vmf.edge-apps.net</link>
+</item>
 <item>
 <title>TV Publica 854x480</title>
 <link>http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/chunklist_b946000.m3u8|Referer=http://vmf.edge-apps.net</link>

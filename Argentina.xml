@@ -6,14 +6,39 @@
     <fanart>http://images.123hdwallpapers.com/20150610/os-x-grass-wallpaper-hd-1920x1080.jpg</fanart>
 <items>
 <item>
-<title>El Trece HD 1280x720</title>
+<title>El Trece HD 1280x720 </title>
 <link>http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/chunklist_b3496000.m3u8|Referer=http://vmf.edge-apps.net</link>
 </item>
 
 <item>
-<title>TN HD 1280x720</title>
+<title>TN HD 1280x720 br4219600</title>
 <link>http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/chunklist_b3496000.m3u8|Referer=http://vmf.edge-apps.net</link>
 </item>
+
+	<item>
+<title>TN HD 1280x720 br2581260</title>
+<link>http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/chunklist_b2142000.m3u8|Referer=http://vmf.edge-apps.net</link>
+</item>
+	<item>
+<title>TN HD 960x540 br1754830</title>
+<link>http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/chunklist_b1459000.m3u8|Referer=http://vmf.edge-apps.net</link>
+</item>
+	
+<item>
+<title>TN HD 854x480 br1222430</title>
+<link>http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/chunklist_b1019000.m3u8|Referer=http://vmf.edge-apps.net</link>
+</item>
+
+	<item>
+<title>TN 640x360 br809820</title>
+<link>http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/chunklist_b678000.m3u8|Referer=http://vmf.edge-apps.net</link>
+</item>
+	<item>
+<title>TN 426x240 br513370</title>
+<link>http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/chunklist_b433000.m3u8|Referer=http://vmf.edge-apps.net</link>
+</item>
+	
+	
 	
 <item>
  <title>El Trece Argentina</title>

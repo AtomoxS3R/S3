@@ -148,11 +148,10 @@
 <item><info>TV Argentina</info><title>[COLOR skyblue]ECO TV Tandil[/COLOR]</title><link>rtmp://mediacontrol.jargon.com.ar/elecotv/elecotv</link></item>
 
 
-			<item><title>Argentina: America TV</title><link>http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8</link></item>
-<item><title>Argentina: America TV HD </title><link>http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8</link></item>
-<item><title>Argentina: Canal 4 HD </title><link>rtmp://streaming.wirenetserver.com.ar/canal4/live_1</link></item>
-<item><title>Argentina: Canal 9 Bio Bio HD 720</title><link>http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w722946044_b1200000.m3u8</link></item>
-<item><title>Argentina: CANAL 26 HD</title><link>http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8</link></item>
+			
+
+
+<item><title>Argentina: CANAL 26 HD</title><link>http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8</link></item>
 <item><title>Argentina: EL TRECE </title><link>http://live-edge01.telecentro.net.ar/live/13hd-360/playlist.m3u8</link></item>
 <item><title>Argentina: El Trece HD </title><link>http://live-edge01.telecentro.net.ar:1935/live/13hd-720/playlist.m3u8</link></item>
 <item><title>Argentina: TELEFE HD</title><link>http://live-edge01.telecentro.net.ar/live/tlfhd-360/playlist.m3u8</link></item>
@@ -435,50 +434,7 @@
 
 <item><title>America TV Argentina</title><link>plugin://plugin.video.f4mTester/?url=http://prepublish.f.qaotic.net/epb/ngrp:americatvlive-100056_all/manifest.f4m</link></item>
 			
-	 <name>getUrl</name>
- <expres>(.*)</expres>
- <page>http://mvn.vaughnsoft.net/video/edge/live_5telar$doregex[gettime]-$doregex[gettime].33434</page>
- </regex>
- <regex>
- <name>gettime</name>
- <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
- <page></page>
- </regex>
- </item>
- 
- 
- <item>
- <title>TELEFE Argentina</title>
- <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_beto_5 live=1 timeout=20</link>
- <regex>
- <name>clearCode</name>
- <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
- <page></page>
- </regex>
- <regex>
- <name>getencoded</name>
- <expres>:mvnkey-(.*)</expres>
- <page>$doregex[getUrl]</page>
- </regex>
- <regex>
- <name>getserver</name>
- <expres>(.*?);</expres>
- <page>$doregex[getUrl]</page>
- </regex>
- <regex>
- <name>getUrl</name>
- <expres>(.*)</expres>
- <page>http://mvn.vaughnsoft.net/video/edge/live_beto_5$doregex[gettime]-$doregex[gettime].33434</page>
- </regex>
- <regex>
- <name>gettime</name>
- <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
- <page></page>
- </regex>
- </item>	
-				
-	 <page>$doregex[getUrl]</page>
- </regex>
+	 
  <regex>
  <name>getUrl</name>
  <expres>(.*)</expres>
@@ -489,77 +445,6 @@
  <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
  <page></page>
  </regex>
- </item>
- 
- 
- <item>
- <title>El Trece Argentina</title>
- <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_el13tv live=1 timeout=20</link>
- <regex>
- <name>clearCode</name>
- <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
- <page></page>
- </regex>
- <regex>
- <name>getencoded</name>
- <expres>:mvnkey-(.*)</expres>
- <page>$doregex[getUrl]</page>
- </regex>
- <regex>
- <name>getserver</name>
- <expres>(.*?);</expres>
- <page>$doregex[getUrl]</page>
- </regex>
- <regex>
- <name>getUrl</name>
- <expres>(.*)</expres>
- <page>http://mvn.vaughnsoft.net/video/edge/live_el13tv$doregex[gettime]-$doregex[gettime].33434</page>
- </regex>
- <regex>
- <name>gettime</name>
- <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
- <page></page>
- </regex>
- </item>
- 	<item>
- <title>El Trece Argentina</title>
- <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_juan_13tv live=1 timeout=20</link>
- <regex>
- <name>clearCode</name>
- <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
- <page></page>
- </regex>
- <regex>
- <name>getencoded</name>
- <expres>:mvnkey-(.*)</expres>
- <page>$doregex[getUrl]</page>
- </regex>
- <regex>
- <name>getserver</name>
- <expres>(.*?);</expres>
-
- 
- 
- <item>
- <title>El Trece Argentina</title>
- <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_5telar live=1 timeout=20</link>
- <regex>
- <name>clearCode</name>
- <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
- <page></page>
- </regex>
- <regex>
- <name>getencoded</name>
- <expres>:mvnkey-(.*)</expres>
- <page>$doregex[getUrl]</page>
- </regex>
- <regex>
- <name>getserver</name>
- <expres>(.*?);</expres>
- <page>$doregex[getUrl]</page>
- </regex>
- <regex>
-		
-				
+ </item>				
 </items>	
 

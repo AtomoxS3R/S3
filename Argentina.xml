@@ -101,137 +101,27 @@
 <thumbnail>http://runimas.esy.es/13TV/Canal13240.png</thumbnail>
 <fanart>http://runimas.esy.es/13TV/WallpaperCanal13.jpg</fanart>
 </item>			 
- <item>
- <title>multicanal Argentina (America TV / Telefe / Canal 13)</title>
- <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_el_yamato live=1 timeout=20</link>
- <regex>
- <name>clearCode</name>
- <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
- <page></page>
- </regex>
- <regex>
- <name>getencoded</name>
- <expres>:mvnkey-(.*)</expres>
- <page>$doregex[getUrl]</page>
- </regex>
- <regex>
- <name>getserver</name>
- <expres>(.*?);</expres>
- <page>$doregex[getUrl]</page>
- </regex> 
- <regex>
- <name>getUrl</name>
- <expres>(.*)</expres>
- <page>http://mvn.vaughnsoft.net/video/edge/live_el_yamato$doregex[gettime]-$doregex[gettime].33434</page>
- </regex>
- <regex>
- <name>gettime</name>
- <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
- <page></page>
- </regex>
- </item>
- <item>
- <title>El Trece Argentina</title>
- <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_vk_1 live=1 timeout=20</link>
- <regex>
- <name>clearCode</name>
- <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
- <page></page>
- </regex>
- <regex>
- <name>getencoded</name>
- <expres>:mvnkey-(.*)</expres>
- <page>$doregex[getUrl]</page>
- </regex>
- <regex>
- <name>getserver</name>
- <expres>(.*?);</expres>
- <page>$doregex[getUrl]</page>
- </regex>
- <regex>
- <name>getUrl</name>
- <expres>(.*)</expres>
- <page>http://mvn.vaughnsoft.net/video/edge/live_vk_1$doregex[gettime]-$doregex[gettime].33434</page>
- </regex>
- <regex>
- <name>gettime</name>
- <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
- <page></page>
- </regex>
- </item>
 
- <item>
- <title>Antena Sur</title>
- <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_carlossrk live=1 timeout=20</link>
- <regex>
- <name>clearCode</name>
- <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
- <page></page>
- </regex>
- <regex>
- <name>getencoded</name>
- <expres>:mvnkey-(.*)</expres>
- <page>$doregex[getUrl]</page>
- </regex>
- <regex>
- <name>getserver</name>
- <expres>(.*?);</expres>
- <page>$doregex[getUrl]</page>
- </regex>
- <regex>
- <name>getUrl</name>
- <expres>(.*)</expres>
- <page>http://mvn.vaughnsoft.net/video/edge/live_carlossrk$doregex[gettime]-$doregex[gettime].33434</page>
- </regex>
- <regex>
- <name>gettime</name>
- <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
- <page></page>
- </regex>
- </item>
-<item></item>
-<item></item>
-<item></item>
-<item></item>
-<item><title>TN HD 1</title><link>rtsp://stream.tn.com.ar/live/tnhd1</link></item>
-<item><title>TN HD 2</title><link>rtsp://stream.tn.com.ar/live/tnhd2</link></item>
-<item><title>C5N</title><link>rtmp://c5n.stweb.tv/c5n/live</link></item>
-<item><title>C5N HD</title><link>rtmp://c5n.stweb.tv:1935/c5n/live</link></item>
-*<item><title>CANAL 13 HD</title><link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1</link></item>
+
 <item><title>Canal Rural 1</title><link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1</link></item>
 <item><title>Quiero Musica TV</title><link>mms://200.42.92.6:1755/qmusica</link></item>
 <item><title>TeleMax</title><link>http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8</link></item>
 *<item><title>CN23</title><link>http://server6.stweb.tv/CN23/ngrp:live_all/playlist.m3u8</link></item>
 <item><title> DeportTV</title><link>rtsp://186.33.227.198/DXTV/mp4:DXTV_movil1?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE2IDU6MTE6MzUgUE0maGFzaF92YWx1ZT1udHVQVHpNUys5MlNiZzFQQzgxYjlnPT0mdmFsaWRtaW51dGVzPTIw</link></item>
 
-<item><title>ElOnce TV Entre Rios Argentina</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/8957585/streams/live/playlist.m3u8</link></item>
-<item><title>Imperio TV Rio Cuarto Argentina</title><link>http://iphone-streaming.ustream.tv/uhls/18376856/streams/live/iphone/playlist.m3u8</link></item>
 
 
 
-<item><title>C5N</title><link>
-rtmp://c5n.stweb.tv:1935/c5n/live</link></item>
-<item><title>Canal 9 Paraná</title><link>http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8</link></item>
-<item><title>Orbe 21</title><link>http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8</link></item>
 <item><title>Telpin Canal 2 HD Pinamar</title><link>rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p</link></item>
 <item><title>Magazine</title><link>rtmp://stream.mgzn.tv/live/mgzntv/mgzntv playpath=mgzntv swfUrl=http://www.mgzn.tv/sites/all/themes/magazine/images/player.swf live=1 pageUrl=http://www.mgzn.tv/vivo</link></item>
-<item><title>Canal Rural</title><link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1</link></item>
-<item><title>Canal 12 Cordoba</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8</link></item>
-<item><title>Canal 13</title><link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1</link></item>
-<item><title>Canal 9</title><link>http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8</link></item>
-<item><title>Todo Noticias</title><link>rtmp://stream.tn.com.ar/live/tnhd2 playpath=tnhd2 swfUrl="http://tn.com.ar/sites/all/themes/dozer/swf/cplayer/player.swf" pageUrl="http://tn.com.ar/envivo/24hs/HD" swfVfy=true live=true</link></item>
-<item><title>Canal 10 Entre Rios</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8</link></item>
-<item><title>Canal 11 Formosa</title><link>rtmp://stream1.livestreamingservices.com:1935/tvcanal11 playpath=tvcanal11 swfUrl=http://www.lapachotv.com.ar/jwplayer/player.swf live=1 pageUrl=http://www.lapachotv.com.ar/vivo/</link></item>
-<item><title>Canal 26</title><link>http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1888852998_b2628000_sleng.m3u8</link></item>
-<item><title>Am Sports</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/11602466/streams/live/playlist.m3u8</link></item>
-<item><title>Vivra TV</title><link>http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8</link></item>
-<item><title>TVP</title><link>http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/chunklist.m3u8</link></item>
+
+<title>Canal 26</title><link>http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1888852998_b2628000_sleng.m3u8</link></item>
+
 <item><title>Tateti</title><link>http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8</link></item>
 <item><title>Viajar</title><link>http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8</link></item>
-<item><title>Telemax</title><link>http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8</link></item>
+
 <item><title>TV Universidad La Plata</title><link>rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp</link></item>
-<item><title>Canal 2 Misiones</title><link>http://190.57.237.230/live/canal2.m3u8</link></item>
-<item><title>Misiones Cuatro</title><link>rtsp://streamlky.alsolnet.com/misionescuatro/live</link></item>
+
 <item><title>Paka Paka</title><link>http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8</link></item>
 	
 			

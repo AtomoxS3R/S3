@@ -101,7 +101,30 @@
 <thumbnail>http://runimas.esy.es/13TV/Canal13240.png</thumbnail>
 <fanart>http://runimas.esy.es/13TV/WallpaperCanal13.jpg</fanart>
 </item>			 
-
+<item>
+<title>America TV HD 1280x720 b1526000 </title>
+<link>http://prepublish.f.qaotic.net/epa/ngrp:americatvlive_all/chunklist_b1596000.m3u8|Referer=http://vmf.edge-apps.net</link>
+<thumbnail>http://runimas.esy.es/AmericaTV/AmericaTV720hd.png</thumbnail>
+<fanart>http://runimas.esy.es/AmericaTV/AmericaTVPublica.jpg</fanart>
+</item>
+<item>
+<title>America TV 960x540</title>
+<link>http://prepublish.f.qaotic.net/epa/ngrp:americatvlive_all/chunklist_b946000.m3u8|Referer=http://vmf.edge-apps.net</link>
+<thumbnail>http://runimas.esy.es/AmericaTV/AmericaTV540.png</thumbnail>
+<fanart>http://runimas.esy.es/AmericaTV/AmericaTVPublica.jpg</fanart>
+</item>
+<item>
+<title>America TV 640x360</title>
+<link>http://prepublish.f.qaotic.net/epa/ngrp:americatvlive_all/chunklist_b596000.m3u8|Referer=http://vmf.edge-apps.net</link>
+<thumbnail>http://runimas.esy.es/AmericaTV/AmericaTV.png</thumbnail>
+<fanart>http://runimas.esy.es/AmericaTV/AmericaTVPublica.jpg</fanart>
+</item>
+<item>
+<title>America TV 426x240</title>
+<link>http://prepublish.f.qaotic.net/epa/ngrp:americatvlive_all/chunklist_b346000.m3u8|Referer=http://vmf.edge-apps.net</link>
+<thumbnail>http://runimas.esy.es/AmericaTV/AmericaTV240.png</thumbnail>
+<fanart>http://runimas.esy.es/AmericaTV/WallpaperAmericaTV.jpg</fanart>
+</item>
 
 <item><title>Canal Rural 1</title><link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1</link></item>
 <item><title>Quiero Musica TV</title><link>mms://200.42.92.6:1755/qmusica</link></item>

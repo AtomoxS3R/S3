@@ -44,22 +44,26 @@
 <item>
 <title>TV Publica HD 1280x720 b1526000 </title>
 <link>http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/chunklist_b1396000.m3u8|Referer=http://vmf.edge-apps.net</link>
-<thumbnail>http://interzonaeditora.com/admin/files/medios/133/tvpublica.jpg</thumbnail>
+<thumbnail>http://runimas.esy.es/TVP/TVPublica720hd.png</thumbnail>
+<fanart>http://runimas.esy.es/TVP/WallpaperTVPublica.jpg</fanart>
 </item>
 <item>
 <title>TV Publica 854x480</title>
 <link>http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/chunklist_b946000.m3u8|Referer=http://vmf.edge-apps.net</link>
-<thumbnail>http://interzonaeditora.com/admin/files/medios/133/tvpublica.jpg</thumbnail>
+<thumbnail>http://runimas.esy.es/TVP/TVPublica480.png</thumbnail>
+<fanart>http://runimas.esy.es/TVP/WallpaperTVPublica.jpg</fanart>
 </item>
 <item>
 <title>TV Publica 640x360</title>
 <link>http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/chunklist_b496000.m3u8|Referer=http://vmf.edge-apps.net</link>
-<thumbnail>http://interzonaeditora.com/admin/files/medios/133/tvpublica.jpg</thumbnail>
+<thumbnail>http://runimas.esy.es/TVP/TVPublica360.png</thumbnail>
+<fanart>http://runimas.esy.es/TVP/WallpaperTVPublica.jpg</fanart>
 </item>
 <item>
 <title>TV Publica 426x240</title>
 <link>http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/chunklist_b296000.m3u8|Referer=http://vmf.edge-apps.net</link>
-<thumbnail>http://interzonaeditora.com/admin/files/medios/133/tvpublica.jpg</thumbnail>
+<thumbnail>http://runimas.esy.es/TVP/TVPublica240.png</thumbnail>
+<fanart>http://runimas.esy.es/TVP/WallpaperTVPublica.jpg</fanart>
 </item>
 <item>
 <title>El Trece HD 1280x720 b3836000</title>

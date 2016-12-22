@@ -106,7 +106,7 @@
 <item><title>Canal Rural 1</title><link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1</link></item>
 <item><title>Quiero Musica TV</title><link>mms://200.42.92.6:1755/qmusica</link></item>
 <item><title>TeleMax</title><link>http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8</link></item>
-*<item><title>CN23</title><link>http://server6.stweb.tv/CN23/ngrp:live_all/playlist.m3u8</link></item>
+<item><title>CN23</title><link>http://server6.stweb.tv/CN23/ngrp:live_all/playlist.m3u8</link></item>
 <item><title> DeportTV</title><link>rtsp://186.33.227.198/DXTV/mp4:DXTV_movil1?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE2IDU6MTE6MzUgUE0maGFzaF92YWx1ZT1udHVQVHpNUys5MlNiZzFQQzgxYjlnPT0mdmFsaWRtaW51dGVzPTIw</link></item>
 
 
@@ -125,35 +125,26 @@
 <item><title>Paka Paka</title><link>http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8</link></item>
 	
 			
-			<item><info>TV Argentina</info><title>[COLOR skyblue]TN HD[/COLOR]</title><link>rtsp://stream.tn.com.ar/live/tnhd1</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]TN SD[/COLOR]</title><link>rtsp://stream.tn.com.ar/live/tnmovil3</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]EL TRECE HD[/COLOR]</title><link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1/</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]EL TRECE HD (2)[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/13hd-360/playlist.m3u8</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]EL TRECE SD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/13hd-180/playlist.m3u8</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]C5N[/COLOR]</title><link>rtmp://c5n.stweb.tv:1935/c5n/live_media</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]C5N (2)[/COLOR]</title><link>rtmp://c5n.stweb.tv:1935/c5n/live</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]CANAL 26 HD[/COLOR]</title><link>rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]CANAL 26 HD (2)[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]CANAL 26 SD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/26hd-180/playlist.m3u8</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue] A24[/COLOR]</title><link>http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]360TV[/COLOR]</title><link>http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]Canal Rural[/COLOR]</title><link>rtsp://streamrural.cmd.com.ar:1935/liverural/crural/rural1</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]CNN en español[/COLOR]</title><link>http://187.247.255.139/Apple/CNNEspanol1200.m3u8</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]ARG TV PUBLICA HD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]ARG TV PUBLICA SD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/tvphd-180/playlist.m3u8</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]America TV[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]America TV HD 720[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]TeLeFe SD HQ[/COLOR]</title><link>http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 2 Misiones[/COLOR]</title><link>http://190.57.237.214/live/canal.m3u8</link></item>
+			
+<item><info>TV Argentina</info><title>[COLOR skyblue]C5N sd[/COLOR]</title><link>rtmp://c5n.stweb.tv:1935/c5n/live_media</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]C5N hd 720[/COLOR]</title><link>rtmp://c5n.stweb.tv:1935/c5n/live</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]CANAL 26 sd[/COLOR]</title><link>rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]CANAL 26 sd(2)[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]CANAL 26 SD3[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/26hd-180/playlist.m3u8</link></item>
+
+<item><info>TV Argentina</info><title>[COLOR skyblue]360TV sd[/COLOR]</title><link>http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8</link></item>
+
+
+
 <item><info>TV Argentina</info><title>[COLOR skyblue]Canal 29 Ensenada[/COLOR]</title><link>rtmp://panel.dattalive.com/8008/8008</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 4 Esquel[/COLOR]</title><link>rtmp://streamlky.alsolnet.com/canal4/live</link></item>
+
 <item><info>TV Argentina</info><title>[COLOR skyblue]Canal 4 HD 720 Jujuy[/COLOR]</title><link>rtmp://streaming.wirenetserver.com.ar/canal4/live_1</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 7 Jujuy mms[/COLOR]</title><link>mms://200.43.187.111/canal7</link></item>
+
 <item><info>TV Argentina</info><title>[COLOR skyblue]Canal 79 San Juan[/COLOR]</title><link>rtmp://painel.serveron.com.br:1935/8162/8162</link></item>
 <item><info>TV Argentina</info><title>[COLOR skyblue]Canal 9 Parana[/COLOR]</title><link>http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 9 Salta[/COLOR]</title><link>http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8</link></item>
+
 <item><info>TV Argentina</info><title>[COLOR skyblue]Canal Rural 1 rtsp[/COLOR]</title><link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1</link></item>
-<item><info>TV Argentina</info><title>[COLOR skyblue]CANAL RURAL 2 rtsp[/COLOR]</title><link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural2</link></item>
+
 <item><info>TV Argentina</info><title>[COLOR skyblue]ECO TV Tandil[/COLOR]</title><link>rtmp://mediacontrol.jargon.com.ar/elecotv/elecotv</link></item>
 
 

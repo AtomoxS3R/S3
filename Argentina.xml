@@ -64,6 +64,14 @@
 <thumbnail>http://runimas.esy.es/TVP/TVPublica240.png</thumbnail>
 <fanart>http://runimas.esy.es/TVP/WallpaperTVPublica.jpg</fanart>
 </item>
+	http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/Playlist.m3u8
+	<item>
+<title>TV Publica Playlist</title>
+<link>http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net</link>
+<thumbnail>http://runimas.esy.es/TVP/TVPublica240.png</thumbnail>
+<fanart>http://runimas.esy.es/TVP/WallpaperTVPublica.jpg</fanart>
+</item>
+	
 <item>
 <title>El Trece 1280x720 HD</title>
 <link>http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/chunklist_b3496000.m3u8|Referer=http://vmf.edge-apps.net</link>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="plugin.video.tvargentina"
+       name="TV Argentina"
+       version="1.0.0"
+       provider-name="TV Argentina">
+  <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>TV Argentina  - Television</summary>
+    <description>TV Argentina        
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+
+    <addon id="repository.tvargentina" name="TV ARgentina Repositorio" version="1.0.0" provider-name="Atommox">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="TV Argentina Repositorio Oficial">
+            <info compressed="false">https://raw.githubusercontent.com/AtomoxS3R/S3/new/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/AtomoxS3R/S3/new/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/AtomoxS3R/S3/new/master/</datadir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Repositorio para TV Argentina</summary>
+            <description>Repositorio que pertenece a Atomox.</description>
+            <platform>all</platform>
+    </extension>
+</addon>
+
+</addons>

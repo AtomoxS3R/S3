@@ -60,14 +60,14 @@
 </item>
 <item>
 <title>TV Publica 426x240</title>
-<link>http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/chunklist_b346000.m3u8|Referer=http://vmf.edge-apps.net</link>
+<link>http://prepublish.f.qaotic.net/b17/ngrp:c7cam2-20034_all/c7cam2-20034_480p.m3u8|Referer=http://vmf.edge-apps.net</link>
 <thumbnail>http://runimas.esy.es/TVP/TVPublica240.png</thumbnail>
 <fanart>http://runimas.esy.es/TVP/WallpaperTVPublica.jpg</fanart>
 </item>
 	http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/Playlist.m3u8
 	<item>
 <title>TV Publica Playlist</title>
-<link>http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net</link>
+<link>http://prepublish.f.qaotic.net/b17/ngrp:c7cam2-20034_all/c7cam2-20034_480p.m3u8|Referer=http://vmf.edge-apps.net</link>
 <thumbnail>http://runimas.esy.es/TVP/TVPublica240.png</thumbnail>
 <fanart>http://runimas.esy.es/TVP/WallpaperTVPublica.jpg</fanart>
 </item>
